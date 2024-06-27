@@ -1,6 +1,6 @@
 👋 Hi, I’m @maheshrayavelluri98
 
-👀 Passionate about App Development and Web Development
+👀 Passionate MERN stack developer focused on crafting dynamic web applications.
 
 🌱 Currently diving into frameworks like Next.js and Angular.js
 
