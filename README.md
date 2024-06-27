@@ -6,7 +6,7 @@
 
 💞️ Excited to collaborate on innovative projects and open-source contributions
 
-📫 Reach me at: maheshrayavelluri1717@gmail.com
+📫 Reach me at: https://www.linkedin.com/in/mahesh-rayavelluri-03271824a/
 
 ⚡ Fun fact: I transitioned from a commerce background to programming! Swapping balance sheets for code sheets, I've enjoyed every step of the journey, blending analytical skills with creative coding. Let's build something amazing together!
 
