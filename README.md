@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... frame works like next.js and angualr.js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... my email : maheshrayavelluri1717@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact:  I traded balance sheets for code sheets! From crunching numbers to crafting algorithms, my journey from commerce to coding has been an exciting adventure in blending logic with creativity. Let's connect and create something innovative!
 
 <!---
