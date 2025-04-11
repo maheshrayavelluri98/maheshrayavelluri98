@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>👯 Excited to collaborate on innovative projects and open-source contributions<br>🌱Currently diving into DSA<br>⚡ Fun fact : I transitioned from a commerce background to programming! Swapping balance sheets for code sheets, I've enjoyed every step of the journey, blending analytical skills with creative coding. Let's build something amazing together!<br>📫 Reach me at: https://www.linkedin.com/in/uma-mahesh-rayavelluri-03271824a/
-
+🔭 I’m currently working on MERN Stack<br>👯 Excited to collaborate on innovative projects and open-source contributions<br>🌱Currently diving into DSA<br>⚡ Fun fact : I transitioned from a commerce background to programming! Swapping balance sheets for code sheets, I've enjoyed every step of the journey, blending analytical skills with creative coding. Let's build something amazing together!<br>📫 Reach me at:[(https://www.linkedin.com/in/mahesh-rayavelluri-03271824a)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesh_rayavelluri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahesh-rayavelluri-03271824a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MRayavelluri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshrayavelluri1717@gmail.com) 
